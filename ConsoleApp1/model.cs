@@ -9,5 +9,6 @@ namespace ConsoleApp1
     public class model
     {
         public string? Name {  get; set; }   
+        public int Age {  get; set; }   
     }
 }
